@@ -2,8 +2,6 @@
 ### I'm 25 years old
 ### From Leiria, Portugal
 
-#### Currently looking for a new opportunity working with React.js
-
 
 <!--
 **Goncaloo42/Goncaloo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
